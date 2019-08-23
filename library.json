@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-86-10dof-bmp085-module-ms5611-hmc5883l-mpu6050-module-mwc-flight-control",
+  "title": "gy-86-10dof-bmp085-module-ms5611-hmc5883l-mpu6050-module-mwc-flight-control",
+  "keywords": "gy-86-10dof-bmp085-module-ms5611-hmc5883l-mpu6050-module-mwc-flight-control, esp32, esp8266, arduino",
+  "description": "gy-86-10dof-bmp085-module-ms5611-hmc5883l-mpu6050-module-mwc-flight-control plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-86-10dof-bmp085-module-ms5611-hmc5883l-mpu6050-module-mwc-flight-control/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-86-10dof-bmp085-module-ms5611-hmc5883l-mpu6050-module-mwc-flight-control/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
